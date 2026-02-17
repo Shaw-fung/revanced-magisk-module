@@ -1,6 +1,6 @@
 {
-  "version": "v7.59.0.856624550 (patches 5.48.0)",
-  "versionCode": 29,
-  "zipUrl": "https://github.com/Shaw-fung/revanced-magisk-module/releases/download/29/googlephotos-revanced-magisk-v7.59.0.856624550-arm-v7a.zip",
+  "version": "v7.63.0.869312946 (patches 5.50.2)",
+  "versionCode": 30,
+  "zipUrl": "https://github.com/Shaw-fung/revanced-magisk-module/releases/download/30/googlephotos-revanced-magisk-v7.63.0.869312946-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Shaw-fung/revanced-magisk-module/update/build.md"
 }
